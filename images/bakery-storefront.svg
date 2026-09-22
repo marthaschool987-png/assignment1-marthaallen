@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="title description">
+  <title id="title">Morning Crumb Bakery Cafe storefront</title>
+  <desc id="description">A bakery cafe storefront with striped awnings, bread in the windows, and the name Morning Crumb.</desc>
+  <rect width="800" height="400" fill="#f7efd9"/>
+  <rect y="320" width="800" height="80" fill="#b7c99b"/>
+  <rect x="100" y="85" width="600" height="245" fill="#d99b6d"/>
+  <rect x="85" y="65" width="630" height="45" fill="#704f3a"/>
+  <text x="400" y="96" text-anchor="middle" font-family="serif" font-size="30" fill="#ffffff">MORNING CRUMB</text>
+  <rect x="130" y="145" width="180" height="130" fill="#a5d5e5"/>
+  <rect x="490" y="145" width="180" height="130" fill="#a5d5e5"/>
+  <rect x="350" y="150" width="100" height="180" fill="#5f4737"/>
+  <circle cx="430" cy="240" r="5" fill="#e7c75e"/>
+  <path d="M115 125h210v25H115z M475 125h210v25H475z" fill="#fff5e6"/>
+  <path d="M115 125h35v25h-35zm70 0h35v25h-35zm70 0h35v25h-35zm220 0h35v25h-35zm70 0h35v25h-35zm70 0h35v25h-35z" fill="#bc5c4b"/>
+  <ellipse cx="210" cy="220" rx="38" ry="20" fill="#d9a45b"/>
+  <path d="M180 220q30-30 60 0M185 230q25-25 50 0" fill="none" stroke="#8a5535" stroke-width="4"/>
+  <ellipse cx="585" cy="220" rx="38" ry="20" fill="#d9a45b"/>
+  <path d="M555 220q30-30 60 0M560 230q25-25 50 0" fill="none" stroke="#8a5535" stroke-width="4"/>
+</svg>
